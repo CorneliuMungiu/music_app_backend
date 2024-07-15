@@ -1,0 +1,14 @@
+com\backend\musicApp\dto\ImageDto.class
+com\backend\musicApp\controllers\IndexController.class
+com\backend\musicApp\controllers\ImageController.class
+com\backend\musicApp\model\Image.class
+com\backend\musicApp\controllers\SongController.class
+com\backend\musicApp\repository\ImageRepository.class
+com\backend\musicApp\dto\MusicDto.class
+com\backend\musicApp\MusicAppApplication.class
+com\backend\musicApp\repository\SongRepository.class
+com\backend\musicApp\security\SecurityConfig.class
+com\backend\musicApp\model\Song.class
+com\backend\musicApp\controllers\AuthController.class
+com\backend\musicApp\services\StorageService.class
+com\backend\musicApp\dto\SongDto.class

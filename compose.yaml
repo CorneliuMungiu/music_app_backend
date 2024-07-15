@@ -1,0 +1,14 @@
+services:
+  keycloak:
+      container_name: musicApp_keyCloak
+      image: quay.io/keycloak/keycloak:23.0.1
+      restart: always
+      ports:
+        - 9000:8080 # for debug purposes remove when not needed
+      environment:
+        KEYCLOAK_ADMIN: 'admin'
+        KEYCLOAK_ADMIN_PASSWORD: 'admin'
+      command:
+        - start-dev
+      volumes:
+        - ./container-data/keycloak:/opt/keycloak/data/h2

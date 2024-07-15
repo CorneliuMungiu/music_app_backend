@@ -1,0 +1,14 @@
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\controllers\AuthController.java
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\controllers\ImageController.java
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\controllers\IndexController.java
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\controllers\SongController.java
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\dto\ImageDto.java
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\dto\MusicDto.java
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\dto\SongDto.java
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\model\Image.java
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\model\Song.java
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\MusicAppApplication.java
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\repository\ImageRepository.java
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\repository\SongRepository.java
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\security\SecurityConfig.java
+C:\Users\cornel\Desktop\musicApp\src\main\java\com\backend\musicApp\services\StorageService.java
